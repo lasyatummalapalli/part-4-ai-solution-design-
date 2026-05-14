@@ -78,4 +78,4 @@ part-4-ai-solution-design/
 ---
 
 # Author
-AI Business Analyst Assignment – Part 4
+Lasya Tummalapalli
